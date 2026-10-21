@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/amaru1545/roblox-scripts/refs/heads/main/hug%20tower%20script%20grab?token=GHSAT0AAAAAAEJ3FH5FD33OAKF4JQYUCFLO2WY5KZA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/amaru1545/roblox-scripts/refs/heads/main/hug%20tower%20script%20grab"))()
