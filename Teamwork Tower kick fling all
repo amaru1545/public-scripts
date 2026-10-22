@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/amaru1545/roblox-scripts/refs/heads/main/teamwork%20Tower%20Kick%5CKill%20all%20script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/amaru1545/roblox-scripts/refs/heads/main/teamwork%20Tower%20Kick%5CKill%20all%20script"))()
